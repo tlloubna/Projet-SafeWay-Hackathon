@@ -59,8 +59,12 @@ L’application combine **cartographie interactive**, **analyse de graphes** et 
 ---
 ## 🎥 Démonstration
 
- 
-[demoSafeWay.mp4](demoSafeway.mp4)
+<video width="640" controls>
+  <source src="demoSafeway.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la lecture de vidéos.
+</video>
+
+[Télécharger ou visionner la vidéo sur GitHub](demoSafeway.mp4)
 
 ---
 
